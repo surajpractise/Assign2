@@ -1,0 +1,30 @@
+#containerdiv{
+
+	margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+#mngrheading{
+
+	background-color: magenta;
+	color:white;
+	padding:10px;
+
+}
+/*.tmpinline{
+display: inline-block;
+
+}*/
+
+.tmpspaninline{
+	display:inline-block;
+	margin:10px;
+	padding:3px;
+	border: solid 3px;
+	border-radius:10px;
+	/*border-style:solid;
+	border-width: 3px;
+	border-color: green;*/
+}
